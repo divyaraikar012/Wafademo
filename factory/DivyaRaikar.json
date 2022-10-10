@@ -1,0 +1,9 @@
+{
+	"name": "DivyaRaikar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bbaa3400-2a67-4f94-882d-6665a4d5618d",
+		"tenantId": "6077507f-bcd4-4ca1-bebd-e4ac1d05ffa4"
+	}
+}
